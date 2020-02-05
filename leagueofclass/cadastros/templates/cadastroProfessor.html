@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<h1>Cadastro de Professores!	</h1>
+		<br>
+
+		<body>
+
+			<form method="post" novalidate>
+  			{% csrf_token %}
+ 			 {{ form }}
+ 			 <button type="submit">Cadastrar</button>
+			</form>
+		</body>
+	</head>
+
+</html>
