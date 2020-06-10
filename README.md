@@ -32,7 +32,7 @@ Aplicação desenvolvida para a disciplina de Projeto Avançado de Software com 
 - Incompleto 😥 
 
 ---
-<h4 align="center">Desenvolvido por:</h4>
+<h4>Desenvolvido por:</h4>
 - Lucas Aragão 😎
 - Alex Antonio 😁
 - Osvaldo Airon 😆
