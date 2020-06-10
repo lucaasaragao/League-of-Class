@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://github.com/lucaasaragao/LOC_/blob/master/leagueofclass/front-end/img/logo.png" width="120px">
+    <img src="https://github.com/lucaasaragao/LOC_/blob/master/leagueofclass/front-end/img/logo.png" width="200px">
 </h1>
 
 <h1 align="center">
-    <img src="" width="100%">
+    <img src="https://github.com/lucaasaragao/LOC_/blob/master/leagueofclass/front-end/img/home.PNG" width="100%">
 </h1>
 
 
