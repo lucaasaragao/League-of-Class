@@ -32,5 +32,10 @@ Aplicação desenvolvida para a disciplina de Projeto Avançado de Software com 
 - Incompleto 😥 
 
 ---
-<h3 align="center">Desenvolvido por Lucas Aragão 😁</h3>
+<h4 align="center">Desenvolvido por:</h4>
+- Lucas Aragão 😎
+- Alex Antonio 😁
+- Osvaldo Airon 😆
+- Felipe Acelino 😀
+- Jorge Wellison 😄
 
