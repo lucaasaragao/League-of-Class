@@ -9,7 +9,7 @@
 ---
 
 ## 📑 Sobre
-Aplicação desenvolvida para a disciplina de Projeto Avançado de Software com finalidade de ser uma plataforma de suporte para os professores inspirada no modo mais didático de agradar os alunos **GAMES**. Esta é uma proposta de projeto para ajudar os professores a tem um sistema de avaliação continua com elementos de gamificação.
+Aplicação desenvolvida para a disciplina de Projeto Avançado de Software com finalidade de ser uma plataforma de suporte para os professores inspirada no modo mais didático de agradar os alunos **GAMES**. Esta é um projeto para ajudar os professores a terem um sistema completo de avaliação continua com elementos de gamificação. 
 
 ---
 
@@ -32,10 +32,7 @@ Aplicação desenvolvida para a disciplina de Projeto Avançado de Software com 
 - Incompleto 😥 
 
 ---
-<h4>Desenvolvido por:</h4>
-- Lucas Aragão 😎
-- Alex Antonio 😁
-- Osvaldo Airon 😆
-- Felipe Acelino 😀
-- Jorge Wellison 😄
+### Desenvolvido por:
+
+Lucas Aragão 😎 Alex Antonio 😁 Osvaldo Airon 😆 Felipe Acelino 😀 Jorge Wellison 😄
 
